@@ -1,5 +1,5 @@
 📌 Project Overview:
-This project builds a Convolutional Neural Network (CNN) to classify images of cats and dogs using supervised learning. It involves data preprocessing, augmentation, and training a model using Keras with TensorFlow backend.
+This project builds a Convolutional Neural Network (CNN) to classify images of cats and dogs. It involves data preprocessing, augmentation, and training a model using Keras with TensorFlow backend.
 
 ✅ Key Steps Performed:
 
